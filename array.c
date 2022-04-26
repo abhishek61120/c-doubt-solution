@@ -14,7 +14,7 @@ for ( i=0; i < n; i++)
     printf("\n Array Element: %d" , i+l);
     scanf("%d" ,&arr[i]);
 }       
-printf("\n Array elements and their addresses are : \n")
+printf("\n Array elements and their addresses are : \n");
 for(i=0; i<n; i++)
 
 {
